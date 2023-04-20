@@ -6,7 +6,6 @@ To get started with the Mini Sport Website, you will need a web browser installe
 
 To launch the website, simply click on the link <a href="https://benjaminachebe.github.io/News-Mini-site/index.html" target="_blank">Mini Sport Website</a>
 
-![Mini Sport Website - Home Screen](file:///C:/Users/bachebe/Pictures/Mini%20Sport%20Website.PNG)
 
 ### Website Structure
 The Mini Sport Website consists of two main pages pages, the home page and a blog page Each page is designed to provide a unique user experience and to showcase different types of content related to sports.
@@ -22,5 +21,4 @@ The Mini Sport Website is licensed under the Creative Common License. See the LI
 > **Note:** This website was inspired by Brad Traversy Course "Modern HTML & CSS From The Beginning (Including Sass)"
 
 Click on the link to access the course on  <a href="https://www.udemy.com/course/modern-html-css-from-the-beginning/" target="_blank">Udemy</a>
-
 
